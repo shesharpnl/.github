@@ -19,6 +19,8 @@ about: Share your ideas to help us improve
 
 <!-- If you have specific ideas on how this suggestion could be implemented, share them here. Code snippets, screenshots, or any additional context are welcome! -->
 
+<!--
 ## Your Participation Matters
 
 We appreciate your efforts to make this project more awesome! Your suggestions are valuable to us, and we'll review them as soon as possible.
+-->
