@@ -29,8 +29,10 @@ about: Report a bug to help us improve
 
 <!-- Feel free to share any additional details or thoughts. -->
 
+<!--
 Thank you for your contribution! We'll look into this as soon as possible.
 
 ---
 
 **Note:** Please follow our [Code of Conduct](https://shesharp.co/code-of-conduct) during your participation in this community.
+-->
