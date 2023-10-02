@@ -1,7 +1,6 @@
 ---
 name: Bug Report
 about: Report a bug to help us improve
-
 ---
 
 # Bug Report
@@ -10,7 +9,7 @@ about: Report a bug to help us improve
 
 ## Description
 
-Describe the bug in a few sentences. What happened, and what were you expecting?
+<!-- Describe the bug in a few sentences. What happened, and what were you expecting? -->
 
 ## Steps to Reproduce
 
@@ -20,19 +19,20 @@ Describe the bug in a few sentences. What happened, and what were you expecting?
 
 ## Expected Outcome
 
-What did you expect to happen after following the steps?
+<!-- What did you expect to happen after following the steps? -->
 
 ## Screenshots or Code
 
-If it helps, add screenshots or code snippets related to the issue.
+<!-- If it helps, add screenshots or code snippets related to the issue. -->
 
 ## Anything Else?
 
-Feel free to share any additional details or thoughts.
+<!-- Feel free to share any additional details or thoughts. -->
 
+<!--
 Thank you for your contribution! We'll look into this as soon as possible.
 
 ---
 
 **Note:** Please follow our [Code of Conduct](https://shesharp.co/code-of-conduct) during your participation in this community.
-
+-->
