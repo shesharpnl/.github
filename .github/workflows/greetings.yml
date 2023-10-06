@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: EddieHubCommunity/gh-action-community/src/welcome@main
+      - uses: EddieHubCommunity/gh-action-community/src/welcome@bf67289baedda0b13e216f7ca14e733eab899963
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: "Hello @${{ github.actor }}! \n Thank you for raising this issue! 😊 Your contribution is valuable to us! 😊 \n\nPlease make sure to follow our [Contributing Guidelines. 💪🏻](https://github.com/shesharpnl/.github/blob/main/CONTRIBUTING.md) \n\nOur maintainers will carefully assess the issue and reach out to you soon! 😇 \n We appreciate your patience! "
