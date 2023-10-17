@@ -1,6 +1,9 @@
 # Contributing Guidelines
 
-We're thrilled that you want to contribute. Before you get started, please take a moment to review our [Code of Conduct](CODE_OF_CONDUCT.md).
+We're thrilled that you want to contribute. Before you get started, please take a moment to review our [Code of Conduct](CODE_OF_CONDUCT.md). We welcome contributions from our community members. Join us on [Slack](https://www.shesharp.co/slack).
+
+## Only PRs From Existing Community Members Will Be Accepted ##
+Joining is easy! Just hop on our Slack and say hello in the introductions channel. We prioritize contributions from underrepresented genders. If that doesn't sound like you, you can still contribute by raising issues and helping our community improve their PRs.
 
 ## How to Contribute
 
