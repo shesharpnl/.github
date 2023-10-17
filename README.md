@@ -4,7 +4,7 @@ Community health files for the [@shesharpnl](https://github.com/shesharpnl) orga
 
 ## Contributing
 
-Welcome! We appreciate your interest in contributing to our project. This [document](CONTRIBUTING.md) outlines the process for making contributions and provides guidelines for developers.
+Welcome! We appreciate your interest in contributing to our project. We accept PRs from existing community members and individuals that identify as an underrepresented gender in tech. This [document](CONTRIBUTING.md) outlines the process for making contributions and provides guidelines for developers.
 
 ## Support
 
