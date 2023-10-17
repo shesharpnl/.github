@@ -4,9 +4,9 @@ Shesharp is a non-profit foundation dedicated to making it easier for all women 
 
 ## Get Involved
 
-- 🌟 **Contribute:** Join us in making a difference. Contribute to our projects.
+- 🌟 **Contribute:** Join us in making a difference. Contribute to our projects. We welcome pull requests from members of our community.
 - 🎓 **Learn:** Explore educational resources and attend workshops to enhance your skills.
-- 🤝 **Connect:** Join our community, attend events, and network with like-minded individuals.
+- 🤝 **Connect:** Join our community on [Slack](https://www.shesharp.co/slack), attend events, and network with like-minded individuals.
 
 For more information on how to get involved, visit our website:
 
