@@ -8,7 +8,7 @@ As one of our missions is to support women and underrepresented genders, we only
 
 If you haven't, join our community! Just hop on [our Slack](http://shesharp.co/slack) and say hello in the `#introductions` channel.
 
-If that doesn't sound like you, you can still contribute by raising issues and helping our community improve their PRs by giving feedback.
+If the groups we mentioned don't sound like you, you can still contribute by raising issues or helping our community improve their PRs by giving feedback.
 
 ## How to Contribute
 

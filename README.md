@@ -4,11 +4,13 @@ Community health files for the [@shesharpnl](https://github.com/shesharpnl) orga
 
 ## Contributing
 
-Welcome! We appreciate your interest in contributing to our project. We accept PRs from existing community members and individuals that identify as an underrepresented gender in tech. This [document](CONTRIBUTING.md) outlines the process for making contributions and provides guidelines for developers.
+Welcome! We appreciate your interest in contributing to our project. However, our mission is to support women and underrepresented groups in tech. So, we only accept PRs from existing community members and individuals who identify as an underrepresented gender in tech.
+
+Our [contributing guidelines](CONTRIBUTING.md) outline the process for making contributions and provide guidelines for developers.
 
 ## Support
 
-If you encounter any issues, have questions, or need assistance, please refer to our support [documentation](SUPPORT.md).
+If you encounter any issues, have questions, or need assistance, please refer to our [support documentation](SUPPORT.md).
 
 ## Code of Conduct
 
@@ -16,9 +18,8 @@ To ensure a welcoming and inclusive community, we have established a Code of Con
 
 ## Security
 
-If you discover any security vulnerabilities, please report them following the instructions in our security [documentation](SECURITY.md). Your responsible disclosure is appreciated.
+If you discover any security vulnerabilities, please report them following the instructions in our [security documentation](SECURITY.md). Your responsible disclosure is appreciated.
 
 ## License
 
-Our project is licensed under the [MIT License](LICENSE).
-
+Our projects are licensed under the [MIT License](LICENSE).
