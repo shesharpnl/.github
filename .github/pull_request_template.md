@@ -10,6 +10,7 @@ For example, "This PR [adds/fixes/etc.] the [feature/bug/etc.]
 <!-- For example:
 - [x] ✨ Feature -->
 
+- [ ] I am assigned this issue.
 - [ ] ✨ Feature
 - [ ] 🐞 Bug fix
 - [ ] 📄 Documentation update
