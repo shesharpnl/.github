@@ -4,9 +4,7 @@ Community health files for the [@shesharpnl](https://github.com/shesharpnl) orga
 
 ## Contributing
 
-Welcome! We appreciate your interest in contributing to our project. However, our mission is to support women and underrepresented groups in tech. So, we only accept PRs from existing community members and individuals who identify as an underrepresented gender in tech.
-
-Our [contributing guidelines](CONTRIBUTING.md) outline the process for making contributions and provide guidelines for developers.
+Before starting, please read our [Contributing Guidelines](CONTRIBUTING.md) for detailed information and instructions on contributing to this repository.
 
 ## Support
 

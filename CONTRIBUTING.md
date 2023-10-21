@@ -1,14 +1,24 @@
 # Contributing Guidelines
 
-Welcome to SheSharp! Thank you for considering contributing to our open source projects. Before you get started, please take a moment to review our [Code of Conduct](CODE_OF_CONDUCT.md).
+Welcome to SheSharp! Thank you for considering contributing to our open source projects.
 
-## Only PRs from Existing Community Members and Underrepresented Genders Will Be Accepted
+We appreciate all kinds of contributions. **However, we prioritize PRs from existing community members and underrepresented genders in tech to support our mission**.
 
-As one of our missions is to support women and underrepresented genders, we only accept contributions from our community members and underrepresented genders.
+We take our [Code of Conduct](CODE_OF_CONDUCT.md) very seriously, and all contributors must abide by it. Please take time to read it before contributing.
 
-If you haven't, join our community! Just hop on [our Slack](http://shesharp.co/slack) and say hello in the `#introductions` channel.
+## New Contributors
 
-If the groups we mentioned don't sound like you, you can still contribute by raising issues or helping our community improve their PRs by giving feedback.
+If you're new to open source, check out the resources below to familiarize yourself with open source:
+
+- [Our members' articles about open source on our website](https://www.shesharp.co/hacktoberfest)
+- [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
+- [Git Guide](https://github.com/git-guides)
+
+## Working With Issues
+
+If you find an issue you would like to work on, comment on it, and a maintainer will respond and assign it to you. Only work on changes and create a PR after it's assigned to you.
+
+**We only accept PRs from contributors who get assigned to the issues**.
 
 ## How to Contribute
 
@@ -17,14 +27,9 @@ If the groups we mentioned don't sound like you, you can still contribute by rai
 - If you find a bug or have a suggestion, [create a new issue](../../issues/new/choose).
 - Select the appropriate template for bug reports or suggestions.
 - Fill in the details and submit the issue.
+- If you want to work on the issue, comment on it and _wait until a maintainer assigns it to you_ before you start work on changes.
 
-### 2. Ask to Be Assigned to an Issue
-
-If you find an issue you want to work on, comment on it, and a maintainer will respond and assign it to you.
-
-Please only work on changes after you get assigned to the issue. Maintainers might reject your PR if it's not the solution they seek or the issue is not their priority.
-
-### 3. Making Changes
+### 2. Making Changes
 
 - Fork the repository by clicking the "Fork" button.
 - Clone your fork to your local machine and navigate to it:
@@ -54,7 +59,7 @@ Please only work on changes after you get assigned to the issue. Maintainers mig
   git push origin your-feature
   ```
 
-### 4. Creating Pull Requests
+### 3. Creating Pull Requests
 
 - Go to your forked repository on GitHub.
 - Click the green "Compare & pull request" button.
@@ -66,6 +71,6 @@ By contributing, you agree that your contributions will be licensed under the [L
 
 ## Need Help?
 
-If you have any questions or need assistance, feel free to reach out by [opening an issue](../../issues/new).
+If you have any questions or need assistance, feel free to reach out at the `open-source` channel on Slack or open a discussion in the discussion board that you can find at the top bar of this repository.
 
 Thank you for contributing to our project! 🚀
