@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Welcome to SheSharp! Thank you for considering contributing to our open source projects.
+Welcome to SheSharp! Thank you for considering contributing to our open source projects. Here you will find our general guidelines for contributing. Please note that certain repositories may have slightly different guidelines.
 
 We appreciate all kinds of contributions. **However, we prioritize PRs from existing community members and underrepresented genders in tech to support our mission**.
 
