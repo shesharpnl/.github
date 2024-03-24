@@ -1,0 +1,54 @@
+name: 🐛 Bug report
+description: Help us improve our projects at SheSharp.
+title: "Bug: "
+labels: [needs triage, bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        👋 Hi there! Thanks for letting us know about this issue. Your help is valuable in making this project better for everyone.
+  - type: textarea
+    attributes:
+      label: Description
+      description: Describe the bug clearly. What happened, and what were you expecting?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      description: Describe how to reproduce the bug.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. Scroll down to '...'
+        4. See error
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected Outcome
+      description: What outcome did you expect to happen?
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Screenhots or Screen Recordings
+      description: Please provide screenshots or screen recordings for us to better understand the bug. If not available, write N/A.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://www.shesharp.co/code-of-conduct)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contributing Guidelines
+      description: "If you plan on contributing to our projects please read our [Contributing Guidelines](https://github.com/shesharpnl/.github/blob/main/CONTRIBUTING.md)"
+      options:
+        - label: I agree to follow this project's Contributing Guidelines
+          required: false

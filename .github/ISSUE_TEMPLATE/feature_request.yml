@@ -1,0 +1,53 @@
+name: "🚀 Feature Request"
+description: "Suggest an idea for this project 💡"
+title: "Feature: "
+labels: [needs triage, feature]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        🌟 Hi there! We're excited to hear your suggestions and ideas for making this project better. Thank you for contributing to our community!
+  - type: dropdown
+    attributes:
+      multiple: false
+      label: Type of Feature
+      description: Select the type of feature request.
+      options:
+        - "✨ Enhancement"
+        - "📝 Documentation"
+        - "🎨 Style"
+        - "🔥 Performance"
+        - "✅ Test"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Description
+      description: "Describe your suggestion or improvement in a few sentences. What would you like to see added, changed, or enhanced?"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Suggested Solution
+      description: "Describe the solution you'd like to see or implement."
+  - type: input
+    id: context
+    attributes:
+      label: Additional Resources
+      description: "Add any other resources such as screenshots, code snippets, or helpful links here."
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: "By submitting this issue, you agree to follow our [Code of Conduct](https://www.shesharp.co/code-of-conduct)"
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contributing Guidelines
+      description: "If you plan on contributing to our projects please read our [Contributing Guidelines](https://github.com/shesharpnl/.github/blob/main/CONTRIBUTING.md)"
+      options:
+        - label: I agree to follow this project's Contributing Guidelines
+          required: false
